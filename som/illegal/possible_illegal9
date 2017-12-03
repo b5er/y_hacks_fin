@@ -1,0 +1,148 @@
+[52 'MARY' 'MCKENNA' nan 'Y'
+ 'MERRILL LYNCH PIERCE FENNER & SMITH INCORPORATED' 'ONE BRYANT PARK'
+ 'NEW YORK' 'NY' 'United States' '10036' 'TX' 'RA' 'APPROVED_RES' 'TX' 'RA'
+ 'APPROVED_RES' '22477 CENTER PKWY' nan 'ACCOMAC' 'VA' 'United States'
+ '23301' nan 'S66' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[100 'ANDREW' 'SCHROEDER' 'JASON' 'N' 'STONEFIELD INVESTMENT ADVISORY INC.'
+ '425 2ND STREET SE' 'CEDAR RAPIDS' 'IA' 'United States' '52401-1818' 'IA'
+ 'RA' 'APPROVED' 'IA' 'RA' 'APPROVED' nan nan nan nan nan nan nan 'S66' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'Y' 'N' 'N']
+[1792 'RICHARD' 'TILLER' 'C' 'N'
+ 'CANTEY TILLER PIERCE INVESTMENT SERVICES LLP' '1204 BROAD ST.' 'CAMDEN'
+ 'SC' 'United States' '29020' 'SC' 'RA' 'APPROVED' 'SC' 'RA' 'APPROVED' nan
+ nan nan nan nan nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[3560 'KATHERINE' 'STOKES' 'MARIE' 'N' 'CORE ADVISORS LTD.'
+ '137 AMICKS FERRY ROAD' 'CHAPIN' 'SC' 'United States' '29036' 'SC' 'RA'
+ 'APPROVED' 'SC' 'RA' 'APPROVED' '137 AMICKS FERRY ROAD' 'SUITE 101'
+ 'CHAPIN' 'SC' 'United States' '29036' nan nan 'N' 'N' 'N' 'N' 'N' 'N' 'Y'
+ 'N' 'N']
+[3673 'MARK' 'MABRY' 'DAVID' 'N' 'HJM WEALTH ADVISORS LLC'
+ '280 PEPPERS FERRY ROAD' 'WYTHEVILLE' 'VA' 'United States' '24382' 'VA'
+ 'RA' 'APPROVED' 'VA' 'RA' 'APPROVED' '280 PEPPERS FERRY ROAD' nan
+ 'WYTHEVILLE' 'VA' 'United States' '24382' nan 'S65' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N' 'N' 'N']
+[3683 'SCOTT' 'DAVISON' 'THOMAS' 'N' 'WEALTHCARE CAPITAL MANAGEMENT LLC'
+ '2 JAMES CENTER' 'RICHMOND' 'VA' 'United States' '23219' 'MI' 'RA'
+ 'APPROVED' 'MI' 'RA' 'APPROVED' '2 JAMES CENTER'
+ '1021 EAST CARY STREET #1120' 'RICHMOND' 'VA' 'United States' '23219' nan
+ nan 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[3940 'JAMES' 'REA' 'ROBERT' 'N' 'CROSSGATE WEALTH ADVISORS LLC'
+ '605 FLORAL VALE BLVD.' 'YARDLEY' 'PA' 'United States' '19067-5528' 'NJ'
+ 'RA' 'APPROVED' 'NJ' 'RA' 'APPROVED' '605 FLORAL VALE BLVD.' nan 'YARDLEY'
+ 'PA' 'United States' '19067-5528' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[6030 'BRYAN' 'BIELAWSKI' nan 'N' 'TRAUST SOLLUS WEALTH MANAGEMENT LLC'
+ '103 CARNEGIE CENTER' 'PRINCETON' 'NJ' 'United States' '08540' 'NJ' 'RA'
+ 'APPROVED' 'NJ' 'RA' 'APPROVED' '103 CARNEGIE CENTER' 'SUITE 205'
+ 'PRINCETON' 'NJ' 'United States' '08540' nan nan 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N' 'N']
+[6145 'MATTHEW' 'BLICKENDERFER' 'DILLON' 'Y' 'STRATEGIC ADVISERS INC.'
+ '245 SUMMER STREET V10G' 'BOSTON' 'MA' 'United States' '02210' 'CO' 'RA'
+ 'APPROVED' 'CO' 'RA' 'APPROVED' "6501 S FIDDLER'S GREEN CIRCLE"
+ 'STE 400 - 600' 'GREENWOOD VILLAGE' 'CO' 'United States' '80111-4932' nan
+ 'S66' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[7604 'Brad' 'Cranford' 'G' 'Y' 'EDWARD JONES' '12555 MANCHESTER RD'
+ 'ST. LOUIS' 'MO' 'United States' '63131' 'TX' 'RA' 'APPROVED' 'TX' 'RA'
+ 'APPROVED' '4400 BUFFALO GAP RD SUITE 4200' nan 'ABILENE' 'TX'
+ 'United States' '79606' nan 'S63' 'N' 'Y' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[7777 'DAR' 'SANDLER' nan 'N' 'APPIAN ROAD LLC' nan 'NEW YORK' 'NY'
+ 'United States' nan 'NJ' 'RA' 'APPROVED' 'NJ' 'RA' 'APPROVED' nan nan
+ 'NEW YORK' 'NY' 'United States' nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[8415 'C. ROBERT' 'CHOW' 'ROBERT' 'N' 'STRATEGIC ADVISERS INC.'
+ '245 SUMMER STREET V10G' 'BOSTON' 'MA' 'United States' '02210' 'MA' 'RA'
+ 'APPROVED' 'MA' 'RA' 'APPROVED' '245 SUMMER STREET' nan 'BOSTON' 'MA'
+ 'United States' '02210' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[9710 'ASHWANI' 'SIROHI' nan 'N' 'SIROHI CAPITAL LLC' nan 'ISSAQUAH' 'WA'
+ 'United States' nan 'WA' 'RA' 'APPROVED' 'WA' 'RA' 'APPROVED' nan nan
+ 'ISSAQUAH' 'WA' 'United States' nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[10190 'AVRAHAM' 'SHILLO' nan 'N' 'PERFORMANCE POINT' nan 'REDMOND' 'WA'
+ 'United States' nan 'WA' 'RA' 'APPROVED' 'WA' 'RA' 'APPROVED' nan nan
+ 'REDMOND' 'WA' 'United States' nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[10381 'SHERYL' 'RAYNER' 'L' 'N' 'STELLAR CAPITAL MANAGEMENT LLC'
+ '2200 EAST CAMELBACK ROAD' 'PHOENIX' 'AZ' 'United States' '85016' 'AZ'
+ 'RA' 'APPROVED' 'AZ' 'RA' 'APPROVED' nan nan nan nan nan nan nan 'S65' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[10599 'MICHELLE' 'MORGAN' 'BARBARA' 'N' 'STRATEGIC ADVISERS INC.'
+ '245 SUMMER STREET V10G' 'BOSTON' 'MA' 'United States' '02210' 'MA' 'RA'
+ 'APPROVED' 'MA' 'RA' 'APPROVED' '245 SUMMER STREET' nan 'BOSTON' 'MA'
+ 'United States' '02210' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[10658 'NEIL' 'WESTERDUIN' nan 'N' 'CHADWICK WEALTH MANAGEMENT LLC'
+ '32-16 BROADWAY' 'FAIR LAWN' 'NJ' 'United States' '07410' 'NJ' 'RA'
+ 'APPROVED' 'NJ' 'RA' 'APPROVED' '32-16 BROADWAY' nan 'FAIR LAWN' 'NJ'
+ 'United States' '07410' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[11149 'ALLEN' 'GOODY' 'WILLIAM' 'N' 'BTC CAPITAL MANAGEMENT'
+ '453 7TH STREET' 'DES MOINES' 'IA' 'United States' '50309-3702' 'IA' 'RA'
+ 'APPROVED' 'IA' 'RA' 'APPROVED' '453 7TH STREET' nan 'DES MOINES' 'IA'
+ 'United States' '50309-3702' nan nan 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[11223 'PATRICK' 'ZUMBUSCH' 'JOHN' 'N' 'WELLSPRING FINANCIAL PARTNERS'
+ '4007 E. PARADISE FALLS DRIVE' 'TUCSON' 'AZ' 'United States' '85712' 'AZ'
+ 'RA' 'APPROVED' 'AZ' 'RA' 'APPROVED' '4007 E. PARADISE FALLS DRIVE'
+ 'SUITE 128' 'TUCSON' 'AZ' 'United States' '85712' nan 'S65' 'N' 'N' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'N']
+[12275 'YU' 'OEN' nan 'N' 'OPTIMAL PORTFOLIO LLC' '353 NASSAU STREET'
+ 'PRINCETON' 'NJ' 'United States' '08540' 'NJ' 'RA' 'APPROVED' 'NJ' 'RA'
+ 'APPROVED' nan nan nan nan nan nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[12332 'JEFFREY' 'BIRDSLEY' 'SCOTT' 'N' 'BTC CAPITAL MANAGEMENT'
+ '453 7TH STREET' 'DES MOINES' 'IA' 'United States' '50309-3702' 'IA' 'RA'
+ 'APPROVED' 'IA' 'RA' 'APPROVED' '453 7TH STREET' nan 'DES MOINES' 'IA'
+ 'United States' '50309-3702' nan nan 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[13179 'PHILLIP' 'HODGES' 'STANLEY' 'N' 'HJM WEALTH ADVISORS LLC'
+ '280 PEPPERS FERRY ROAD' 'WYTHEVILLE' 'VA' 'United States' '24382' 'VA'
+ 'RA' 'APPROVED' 'VA' 'RA' 'APPROVED' '280 PEPPERS FERRY ROAD' nan
+ 'WYTHEVILLE' 'VA' 'United States' '24382' nan 'S65' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N' 'N' 'N']
+[13314 'LEEANN' 'LESKE' nan 'N' '1 BLUEBILL FINANCIAL' '420 SUMMIT AVE'
+ 'ST. PAUL' 'MN' 'United States' '55102-2624' 'MN' 'RA' 'APPROVED' 'MN'
+ 'RA' 'APPROVED' '420 SUMMIT AVE' 'SUITE 317' 'ST. PAUL' 'MN'
+ 'United States' '55102-2624' nan 'S66' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[13335 'DEBRA' 'GALLANT' 'HEFFERNAN' 'N' 'GALLANT FINANCIAL PLANNING LLC'
+ nan 'ROCKVILLE' 'MD' 'United States' nan 'MD' 'RA' 'APPROVED' 'MD' 'RA'
+ 'APPROVED' nan nan 'ROCKVILLE' 'MD' 'United States' nan nan 'S65' 'N' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[13841 'DOUGLAS' 'EICKERMAN' 'EDWARD' 'N' 'KAIROS CAPITAL MANAGEMENT LLC'
+ nan 'NEWCASTLE' 'WA' 'United States' nan 'WA' 'RA' 'APPROVED' 'WA' 'RA'
+ 'APPROVED' nan nan nan nan nan nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[14128 'THOMAS' 'HILL' 'WOODS' 'N' 'GLOBAL FINANCIAL PRIVATE CAPITAL LLC'
+ '501 NORTH CATTLEMEN ROAD' 'SARASOTA' 'FL' 'United States' '34232' 'AL'
+ 'RA' 'APPROVED' 'AL' 'RA' 'APPROVED' '501 NORTH CATTLEMEN ROAD'
+ 'SUITE 106' 'SARASOTA' 'FL' 'United States' '34232' nan 'S65' 'N' 'N' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'N']
+[14228 'KELSEY' 'GRAY' nan 'N' 'WLFB INC' nan 'KIRKLAND' 'WA'
+ 'United States' nan 'WA' 'RA' 'APPROVED' 'WA' 'RA' 'APPROVED' nan nan
+ 'KIRKLAND' 'WA' 'United States' nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
+[14827 'KUUKU' 'SAAH' 'OPOKU' 'N' 'BTC CAPITAL MANAGEMENT' '453 7TH STREET'
+ 'DES MOINES' 'IA' 'United States' '50309-3702' 'IA' 'RA' 'APPROVED' 'IA'
+ 'RA' 'APPROVED' '453 7TH STREET' nan 'DES MOINES' 'IA' 'United States'
+ '50309-3702' nan nan 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[14926 'NATHAN' 'DOUGALL' 'WILLIAM' 'N' 'NETHERBY ADVISORS LLC'
+ '943 POST ROAD EAST' 'WESTPORT' 'CT' 'United States' '06880' 'CT' 'RA'
+ 'APPROVED' 'CT' 'RA' 'APPROVED' '943 POST ROAD EAST' nan 'WESTPORT' 'CT'
+ 'United States' '06880' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[15217 'EDWARD' 'CROMARTY' nan 'N'
+ 'CROMARTY MARKET RESEARCH (CROMARTY RESEARCH & WEALTH MANAGEMENT)' nan
+ 'MAHWAH' 'NJ' 'United States' nan 'NJ' 'RA' 'APPROVED' 'NJ' 'RA'
+ 'APPROVED' nan nan 'MAHWAH' 'NJ' 'United States' nan nan 'S65' 'N' 'N' 'N'
+ 'N' 'N' 'N' 'N' 'N' 'N']
+[15294 'Kevin' 'Pollard' 'Lee' 'N' 'LPL FINANCIAL LLC'
+ '75 STATE STREET 22ND FLOOR' 'BOSTON' 'MA' 'United States' '02109' 'SC'
+ 'RA' 'APPROVED' 'SC' 'RA' 'APPROVED' '1055 LPL WAY' nan 'FORT MILL' 'SC'
+ 'United States' '29715' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[15380 'MICHAEL' 'ROSE' 'PAUL' 'N' 'MODERA WEALTH MANAGEMENT LLC'
+ '56 JEFFERSON AVENUE' 'WESTWOOD' 'NJ' 'United States' '07675' 'MA' 'RA'
+ 'APPROVED' 'MA' 'RA' 'APPROVED' '535 BOYLSTON STREET' 'SUITE 300' 'BOSTON'
+ 'MA' 'United States' '02116' nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[15785 'JOHN' "O'DONOGHUE" 'WALSH' 'N' "O'DONOGHUE INSURANCE AGENCY INC."
+ '90 SUMMER STREET' 'ARLINGTON' 'MA' 'United States' '02474' 'MA' 'RA'
+ 'APPROVED_RES' 'MA' 'RA' 'APPROVED_RES' nan nan 'ARLINGTON' 'MA' nan nan
+ nan nan 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N' 'N']
+[15909 'JAY' 'BITSEFF' 'EDWARD' 'N'
+ 'BITSEFF LEGAL & FINANCIAL SERVICES LLC' nan 'SEATTLE' 'WA'
+ 'United States' nan 'WA' 'RA' 'APPROVED' 'WA' 'RA' 'APPROVED' nan nan
+ 'SEATTLE' 'WA' 'United States' nan nan 'S65' 'N' 'N' 'N' 'N' 'N' 'N' 'N'
+ 'N' 'N']
